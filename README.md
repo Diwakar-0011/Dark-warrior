@@ -1,2 +1,2 @@
 # Dark-warrior
-Fighting bot using ESP32
+Fighting bot using ESP32 and controling via smartphone
